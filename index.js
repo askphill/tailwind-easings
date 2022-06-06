@@ -4,7 +4,7 @@ const easing = plugin(() => {}, {
   theme: {
     extend: {
       transitionTimingFunction: {
-        linear: "cubic-bezier( 0.250, 0.250, 0.750, 0.750)",
+        "linear": "cubic-bezier( 0.250, 0.250, 0.750, 0.750)",
 
         "in-quad": "cubic-bezier( 0.26, 0, 0.6, 0.2 )",
         "out-quad": "cubic-bezier( 0.4, 0.8, 0.74, 1 )",
