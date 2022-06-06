@@ -55,3 +55,30 @@ or
 ```
 
 > Keep in mind **for linear you cannot use a prefix**: so thats always `ease-linear`
+
+
+## All available classes
+
+```css
+ ease-linear
+
+ ease-in-quad
+ ease-out-quad
+ ease-in-out-quad
+
+ ease-in-cubic
+ ease-out-cubic
+ ease-in-out-cubic
+
+ ease-in-quart
+ ease-out-quart
+ ease-in-out-quart
+
+ ease-in-expo
+ ease-out-expo
+ ease-in-out-expo
+
+ ease-in-back
+ ease-out-back
+ ease-in-out-back
+```

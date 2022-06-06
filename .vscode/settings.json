@@ -16,30 +16,4 @@
   "editor.defaultFormatter": "esbenp.prettier-vscode",
 
   "eslint.validate": ["javascript"],
-
-  "search.exclude": {
-    "**/build": true,
-    "assets": true
-  },
-
-  "[javascript]": {
-    "editor.defaultFormatter": "esbenp.prettier-vscode"
-  },
-
-  "[json]": {
-    "editor.defaultFormatter": "esbenp.prettier-vscode",
-    "editor.codeActionsOnSave": {
-      "source.fixAll.prettier": true
-    }
-  },
-
-  "[liquid]": {
-    "editor.quickSuggestions": {
-      "strings": true
-    },
-    "editor.defaultFormatter": "sissel.shopify-liquid"
-  },
-  "[html]": {
-    "editor.defaultFormatter": "sissel.shopify-liquid"
-  }
 }
