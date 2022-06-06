@@ -1,0 +1,24 @@
+{
+  "name": "@askphill/tailwind-easings",
+  "version": "1.0.0",
+  "description": "Custom easings for tailwind",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/askphill/tailwind-easings.git"
+  },
+  "keywords": [
+    "Tailwind",
+    "Easings",
+    "GSAP"
+  ],
+  "author": "askphill",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/askphill/tailwind-easings/issues"
+  },
+  "homepage": "https://github.com/askphill/tailwind-easings#readme"
+}
