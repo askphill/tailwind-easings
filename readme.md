@@ -7,7 +7,7 @@ A Tailwind CSS plugin extends `transitionTimingFunction` with easing similar to 
 Install the plugin from npm:
 
 ```sh
-npm install -D tailwindcss-easing
+npm i @askphill/tailwind-easings
 ```
 
 Then add the plugin to your `tailwind.config.js` file:
